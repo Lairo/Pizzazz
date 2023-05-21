@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Pizzazz
+﻿namespace Pizzazz
 {
     internal class Abracadabra
     {
@@ -12,7 +6,7 @@ namespace Pizzazz
 
         public bool Lala(int floq)
         {
-            if(floq < Vavavoom)
+            if (floq < Vavavoom)
             {
                 Vavavoom += floq;
                 return true;
